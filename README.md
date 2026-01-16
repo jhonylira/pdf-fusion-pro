@@ -237,7 +237,7 @@ Se você gostou do PDF Fusion Pro, considere:
 
 ## 📬 Contato
 
-- **GitHub**: [@seu-usuario](https://github.com/seu-usuario)
+- **GitHub**: https://github.com/jhonylira)
 - **Email**: seu-email@exemplo.com
 - **Website**: https://seu-site.com
 
