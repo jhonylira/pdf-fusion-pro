@@ -218,7 +218,8 @@ Se você gostou do PDF Fusion Pro, considere:
 ## 📱 Demonstração
 
 ### **Desktop View**
-![Desktop Interface](screenshots/desktop-view.png)
+<img width="1060" height="808" alt="image" src="https://github.com/user-attachments/assets/f7da0947-a310-48b9-b507-26a311514f86" />
+
 
 ### **Mobile View**
 ![Mobile Interface](screenshots/mobile-view.png)
